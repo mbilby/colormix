@@ -33,7 +33,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func switchChanged(_ sender: UISwitch) {
-        updateColor()
+        //updateColor()
         updateControls()
     }
     
